@@ -1,2 +1,3 @@
 # -Queens.java
-The Eight Queens puzzle is to find a placement of 8 queens on an otherwise empty 8x8 chessboard in such a way that no two queens confront each other
+This Queens.java program solves the Eight Queens problem, which is all the possible moves 8 queens are on a chess board can
+make without touching one another.
